@@ -4,6 +4,8 @@ Keep only the pages you pick, or cut out a page range, from a PDF. Everything ru
 
 **Use it:** https://afieif.github.io/pdf-splitter/
 
+![PDF Page Splitter with pages 1 and 3-5 selected](docs/screenshot.png)
+
 ## Features
 
 - **Pick pages:** tap thumbnails, or type pages and ranges like `1, 3, 5-7`. Quick buttons select all, none, odd or even pages.

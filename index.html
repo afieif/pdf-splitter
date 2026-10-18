@@ -36,6 +36,7 @@
   --sheet: #f4f5f8; --danger: #ff7a84; color-scheme: dark;
 }
 *, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; } /* or .controls' display: flex would override it */
 html, body { margin: 0; }
 body {
   background: var(--bg); color: var(--fg);

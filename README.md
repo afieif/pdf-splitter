@@ -37,3 +37,7 @@ python3 -m http.server -d dist 8000    # preview at http://localhost:8000
 ## Deployment
 
 Every push to `main` runs `.github/workflows/deploy.yml`, which builds with `build.py` and publishes `dist/` to GitHub Pages.
+
+## License
+
+[MIT](LICENSE). The bundled pdf-lib (MIT) and PDF.js (Apache 2.0) keep their own licenses.
